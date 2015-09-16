@@ -25,7 +25,7 @@ The repo containts the run script run_analysis.R that will create 2 datasets bas
 
 `source("run_analysis.R")`
 
-Also in the repo is the `CodeBook.md` that describes in detail the steps that the run script takes to generate the two datasets below.
+Also in the repo is the [CodeBook.md](https://github.com/pschnett/GettingAndCleaningData/blob/master/CodeBook.md "CodeBook.md") that describes in detail the steps that the run script takes to generate the two datasets below.
 
 * dataset1.csv - 10299 rows and 81 cols
 * dataset2.csv - 180 rows and 81 cols
